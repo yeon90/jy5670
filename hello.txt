@@ -1,2 +1,6 @@
 print ("hello")
 print ("swift")
+
+day5 
+git
+working directory
